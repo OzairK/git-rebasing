@@ -2,4 +2,8 @@
 testing git rebasing
 
 
-this is a rebase
+
+
+commit #1
+this is master
+
