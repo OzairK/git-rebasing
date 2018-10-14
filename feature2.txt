@@ -7,5 +7,5 @@ feature2 commit 2
 this is feature2
 
 
-developemnt commit1
-this is devlopment
+feature 3 commit 1
+feature 3 commit
